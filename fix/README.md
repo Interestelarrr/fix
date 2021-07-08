@@ -15,7 +15,7 @@ https://support.google.com/translate/answer/9179237?p=gendered_translations&hl=z
 Installation
 ====
 ```
-pip install google_trans_new
+pip install fix_google_trans_new
 ```
 ***
   
