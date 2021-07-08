@@ -7,8 +7,8 @@ from shutil import rmtree
 
 REQUIRES_PYTHON = '>=3.6.0'
 VERSION = '1.1.9'
-DESCRIPTION="A free and unlimited python tools for google translate api."
-NAME = "google_trans_new"
+DESCRIPTION="Fix of the api google trans new, respective rights to its creators. By LuShan"
+NAME = "fix_google_trans_new"
 # What packages are required for this module to be executed?
 REQUIRED = [
     # 'requests', 'maya', 'records',
@@ -79,7 +79,7 @@ maintainer='LuShan',
 maintainer_email='188301710@qq.com',
 packages=find_packages(),
 platforms=["all"],
-url='https://github.com/lushan88a/google_trans_new',
+url='https://github.com/drevenzz/fix-google-trans-new',
 install_requires=REQUIRED,
 extras_require=EXTRAS,
 include_package_data=True,
