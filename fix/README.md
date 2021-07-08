@@ -9,6 +9,9 @@ Version 1.1.9 have fixed url translate.
 Ps:
 If your get translations for different genders, it will return a list.
 https://support.google.com/translate/answer/9179237?p=gendered_translations&hl=zh-Hans&visit_id=637425624803913067-1347870216&rd=1
+
+Fix of the api google trans new, respective rights to its creators.
+
 ***
   
   
